@@ -1,6 +1,4 @@
-﻿# Projeto-perfil-do-uso-de-psicotr-picos
- Perfil-de-dispensacao-de-psicotropicos
-📊 Perfil de Uso de Medicamentos Psicotrópicos no SUS — Osório/RS
+﻿📊 Perfil de Uso de Medicamentos Psicotrópicos no SUS — Osório/RS
 Análise exploratória, modelagem estatística/Machine Learning e dashboard interativo para monitoramento da dispensação de medicamentos psicotrópicos na Farmácia Municipal de Osório - RS.
 ________________________________________
 🎯 Objetivo do Projeto
